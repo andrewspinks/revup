@@ -1,7 +1,7 @@
 abcSensitive
 
-<section name="sensitive" type="***REMOVED***" />
+<section name="sensitive" type="cleaned" />
 
-<section name="more" type="***REMOVED***" />
+<section name="more" type="cleaned" />
 
-<section name="here" type="***REMOVED***" />
+<section name="here" type="cleaned" />
